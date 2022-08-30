@@ -8,7 +8,7 @@
   - BSc in Physics (UNAH)
   - BEng Computer Science (UNAH)
 - My experience includes:
-  - Machine Learning in the context of Experimental Condensed Matter Physics (using mostly Python, R and Matlab at UNSW, Max Planck Stuttgart)
+  - Machine Learning in the context of Experimental Condensed Matter Physics (using mostly Python, R and Matlab at UNSW & Max Planck Stuttgart)
   - Web Development (React, Django, PHP, PL/SQL & Java)
   - Systems Administration (GNU Linux, FreeBSD & OpenBSD: web + DB + mail servers)
   - Physics Teaching duties (UNAH)
