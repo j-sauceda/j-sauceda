@@ -9,7 +9,7 @@
   - BEng Computer Science (UNAH)
 - My experience includes:
   - Machine Learning in the context of Experimental Condensed Matter Physics (using mostly Python, R and Matlab at UNSW & Max Planck Stuttgart)
-  - Web Development (React, Django, PHP, PL/SQL & Java)
+  - Web Development (React, Angular, Django, PHP, PL/SQL & Java)
   - Systems Administration (GNU Linux, FreeBSD & OpenBSD: web + DB + mail servers)
   - Physics Teaching duties (UNAH)
 - I’m currently fine-tuning my Data Science and Web Development skills, and open to collaborate on any project.
